@@ -15,7 +15,6 @@ import javax.swing.JMenu;
 import javax.swing.JMenuBar;
 import javax.swing.JMenuItem;
 import javax.swing.JPanel;
-import javax.swing.JProgressBar;
 import javax.swing.JTextField;
 import javax.swing.LayoutStyle.ComponentPlacement;
 
@@ -38,7 +37,6 @@ public class MainEntryPoint {
 	private JTextField endRandomField;
 	private JTextField occurencesField;
 	static ClickerProcess clicker;
-	private JProgressBar progressBar;
 	/**
 	 * Launch the application.
 	 */
@@ -162,7 +160,6 @@ public class MainEntryPoint {
 		delayField.setColumns(10);
 		delayField.setText("10000");
 		JLabel lblinMs = new JLabel("(in ms)");
-		progressBar = new JProgressBar();
 		chckbxMouseMoveOnly.setSelected(true);
 		chckbxClickOnly.setEnabled(false);
 		chckbxclickMove.setEnabled(false);

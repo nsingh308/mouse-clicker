@@ -3,8 +3,6 @@ package org.process;
 import java.awt.Robot;
 import java.awt.event.InputEvent;
 
-import javax.swing.JProgressBar;
-
 /**
  * 
  * @author navdeep.singh.kanwal
