@@ -10,9 +10,12 @@ Delay is in milliseconds.
 WARNING: Do not put milliseconds less than 1000, As you may not be quick to stop the clicker otherwise
 
 Snapshot:
-Version 2
+
+V 2
 
 ![alt text](https://github.com/nsingh308/mouse-clicker/blob/master/img/mouse-clicker-v2.PNG?raw=true)
 
-Version 1
+
+V 1
+
 ![alt text](https://github.com/nsingh308/mouse-clicker/blob/master/img/mouse-clicker.PNG?raw=true)
